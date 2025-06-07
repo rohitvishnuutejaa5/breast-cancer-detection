@@ -85,6 +85,4 @@ The objective is to develop an accurate and robust binary classification model t
 
 This project demonstrates how machine learning and deep learning algorithms, combined with thoughtful preprocessing and sampling strategies, can significantly enhance the accuracy and reliability of breast cancer detection systems. The insights derived from this analysis have the potential to guide future work in healthcare diagnostics using AI-powered solutions.
 
----
 
- 
